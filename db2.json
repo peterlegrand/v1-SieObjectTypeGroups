@@ -1,4 +1,4 @@
-{
+[{
 		"id" : 1,
 		"name": "Learning object",
 		"mouseOver" : "Learning object for the education",
@@ -25,3 +25,4 @@
 		"ModifierName": "Zaphod Beeblebrox",
 		"ModifiedDate": "2021-06-01T14:25:43.511Z"
 }
+]
