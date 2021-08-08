@@ -1,0 +1,28 @@
+[{
+		"id" : 1,
+		"name": "Learning object",
+		"mouseOver" : "Learning object for the education",
+		"menuName" : "LO",
+		"iconFileName" : "learningObject.png",
+		"creatorId": "063a69a8-d7c0-45e3-9da2-f4a565960ca0",
+		"creatorName": "Ford Prefect",
+		"CreatedDate": "2021-04-23T18:25:43.511Z",
+		"ModifierId": "165a0ee5-94f4-40ad-a119-906224d84836",
+		"ModifierName": "Arthur Dent",
+		"ModifiedDate": "2021-05-21T11:25:43.511Z"
+}
+,
+{
+		"id" : 2,
+		"name": "Community project",
+		"mouseOver" : "Community project as practical experiences for students",
+		"menuName" : "CP",
+		"iconFileName" : "community.png",
+		"creatorId": "1c2f29d3-1692-406f-b360-afcffb9c3e5b",
+		"creatorName": "Trillian McMillan",
+		"CreatedDate": "2021-03-11T12:25:43.511Z",
+		"ModifierId": "2281c61c-ee28-4ec7-9015-f794fc94a5ff",
+		"ModifierName": "Zaphod Beeblebrox",
+		"ModifiedDate": "2021-06-01T14:25:43.511Z"
+}
+]
